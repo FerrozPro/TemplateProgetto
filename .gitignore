@@ -71,13 +71,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 target/
-.gitignore
-.idea/.gitignore
-.idea/compiler.xml
-.idea/jarRepositories.xml
-.idea/misc.xml
-TemplateProgetto.iml
-pom.xml
-src/
+
+*.iml
 
 .idea/**
